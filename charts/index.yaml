@@ -3,7 +3,16 @@ entries:
   car-booking:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-08-05T23:25:10.292601+05:30"
+    created: "2025-08-06T00:06:14.56177+05:30"
+    description: A Helm chart for Node.js + PostgreSQL booking app
+    digest: 1d67de2e21c636e57050cdf1ebc917fd2c231bae923854c0421dbed88b900dce
+    name: car-booking
+    urls:
+    - https://rahul-awsdevops.github.io/helm-charts-nodejs/charts/car-booking-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-08-06T00:06:14.56117+05:30"
     description: A Helm chart for Node.js + PostgreSQL booking app
     digest: c32d6825864463cb522c2885a78fc5ab3defb50ac9acd05dfd86c0f0e84adecf
     name: car-booking
@@ -12,11 +21,11 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-08-05T23:25:10.292236+05:30"
+    created: "2025-08-06T00:06:14.560606+05:30"
     description: A Helm chart for Node.js + PostgreSQL booking app
     digest: 8b6aef772d2a3bd1a6378f860c7e14b7bbf9068cbe4d0ae0d2a09d8662c6a156
     name: car-booking
     urls:
     - https://rahul-awsdevops.github.io/helm-charts-nodejs/charts/car-booking-1.0.0.tgz
     version: 1.0.0
-generated: "2025-08-05T23:25:10.291125+05:30"
+generated: "2025-08-06T00:06:14.559188+05:30"
